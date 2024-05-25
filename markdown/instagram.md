@@ -1,6 +1,6 @@
 ### Instagram: What it is?? , its History, and How the Popular App Works??\
 
-&gt; Introduction
+>> Introduction
 
 The story of Instagram’s explosive rise reads like a Silicon Valley fairy tale, with the company gaining staggering momentum within just a few short months. The photo and video-sharing social media application took only **eight weeks** for software engineers to develop before it was launched on Apple’s mobile operating system in October 2010. In less than two years, Facebook (META) had acquired the company for `$1 billion` in cash and stock.
 
