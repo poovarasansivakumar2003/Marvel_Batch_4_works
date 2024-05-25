@@ -67,7 +67,9 @@ Systrom knew `Jack Dorsey`, the co-founder of Twitter, from his time as an inter
 > Facebook Acquires Instagram
 
 By `March 2012`, the app’s user base had grown to approximately **27 million users**. In `April 2012`, Instagram was released for Android phones and was downloaded more than `one million times in less than one day`. At the time, the company was also close to receiving a new round of funding at a valuation of **$500 million**. Systrom and Facebook founder Mark Zuckerberg had become acquainted through events held at Stanford, and the two had been in communication during the beginning of Instagram's rapid rise in popularity.
+
 ![SystromandMarkZuckerberg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI0AwavGtoMFuwyaWmqywI_enBPm6wVUsxoA&amp;usqp=CAU)
+
 
 > Newer Features Added to the App
 
@@ -88,11 +90,14 @@ In **2019**, the market research company eMarketer predicted that Instagram woul
 ![how to use Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi4wQ8NkC1FtfpiECZtE0JUiLo2g6p2n0k8A&amp;usqp=CAU)
 
 
+
 > How Did Instagram Become So Successful?
 
 Instagram's focus on `photo sharing and commenting` led to a strong degree of user engagement and word-of-mouth marketing as users encouraged their friends and family to join. Its simple interface and popular features also made it widely liked. This combination led users, who notoriously have short attention spans, to scroll through many posts and **become addicted**, in a sense, to using the app.
 
 ![instapost](https://img.freepik.com/free-psd/instagram-post-template_1393-166.jpg?w=2000)
+
+
 
 > The Bottom Line
 
