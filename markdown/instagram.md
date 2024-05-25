@@ -1,4 +1,4 @@
-### Instagram: What it is?? , its History, and How the Popular App Works??\
+### Instagram: What it is?? , its History, and How the Popular App Works??
 
 > Introduction
 
