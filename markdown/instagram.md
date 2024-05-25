@@ -1,12 +1,12 @@
 ### Instagram: What it is?? , its History, and How the Popular App Works??\
 
->> Introduction
+> Introduction
 
 The story of Instagram’s explosive rise reads like a Silicon Valley fairy tale, with the company gaining staggering momentum within just a few short months. The photo and video-sharing social media application took only **eight weeks** for software engineers to develop before it was launched on Apple’s mobile operating system in October 2010. In less than two years, Facebook (META) had acquired the company for `$1 billion` in cash and stock.
 
 ![intro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHgBC0dT994wRmHRIwzLowEJ8G5vv3eCqZtQ&amp;usqp=CAU)
 
-&gt; History of Instagram
+> History of Instagram
 
 In 2009, `Kevin Systrom`, a 27-year-old Stanford University graduate, was working at Nextstop, a travel recommendations startup. Systrom had previously worked at Google (GOOG) as a corporate development associate and interned at Odeo, a company that would later evolve into Twitter (now X).
 
@@ -20,13 +20,13 @@ This seed funding allowed Systrom to start building a team of people to support 
 
 ![Kevin Systrom and Mike Krieger](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo-RDpk_oERZYRoqOS9toIvTTZkBOU_sOz8g&amp;usqp=CAU)
 
-&gt; Venture Capital Funding
+> Venture Capital Funding
 
 A crucial turning point came in March 2010 when Systrom attended a party for Hunch, a startup based in Silicon Valley. At the party, Systrom met two venture capitalists from `Baseline Ventures and Andreessen Horowitz.` After showing them the prototype of his app, they decided to meet for coffee to discuss it further. After their first meeting, Systrom decided to quit his job and focus on Burbn. Within two weeks, he had raised *$50 000* in seed funding from both Baseline Ventures and Andreessen Horowitz to further develop his entrepreneurial venture
 
 ![Burbn](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3lOcCMBx--DWXJlWhuKzsjqBEmAC6Z9WZCw&amp;usqp=CAU)
 
-&gt; Pivot to a Photo-Sharing Application
+> Pivot to a Photo-Sharing Application
 
 After Krieger joined, the two reassessed Burbn and decided to focus primarily on one thing: photographs specifically taken on mobile devices. They carefully studied leading apps in the photography category at that time. For Krieger and Systrom, the **Hipstamatic app** stood out to them because it was popular and had interesting features that you could apply to photographs, such as *filters*. However, it *lacked social media-sharing capabilities;* Systrom and Krieger saw potential in building an app that bridged Hipstamatic and a social media platform like Facebook.
 
@@ -36,7 +36,7 @@ They took a step backward and stripped Burbn down to its photo, commenting, and 
 
 ![Hipstamatic app](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjbJiH9jiURLWcBsVPH7BIqwJwCUZDxnk3CA&amp;usqp=CAU)
 
-&gt; Launch of the iOS App
+> Launch of the iOS App
 
 The Instagram app was launched on `Oct. 6, 2010`, and racked up **2 000 users** in one day. At the end of the first week, Instagram had been downloaded **10 000 times**, and by mid-December, the number of users had reached one million. The timing of the app’s release ended up being fortuitous because the iPhone 4 featuring an improved camera–had launched just a few months earlier, in `June 2010`.
 
@@ -50,7 +50,7 @@ Instagram made a limited-feature website interface available in `November 2012`.
 
 ![Instagram with ios](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLCLkhlkfiqm5lBGWC6IMg0jYS5CIPtMLazg&amp;usqp=CAU)
 
-&gt; Series A Funding
+> Series A Funding
 
 After the rapid rise in Instagram's user base, more investors became interested in the company. In `February 2011`, Instagram raised **$7 million** in a Series A funding round. One of their investors was `Benchmark Capital`, which valued the company at around **$25 million**. In addition to institutional investors, the company attracted the attention of other leading companies in the social media technology industry, including Twitter and Facebook.
 
@@ -64,12 +64,12 @@ Systrom knew `Jack Dorsey`, the co-founder of Twitter, from his time as an inter
 
 ![Instagramattracts](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLRpqCqqYj6bhvQiEHjVrpXRGfGejI1-TZvg&amp;usqp=CAU)
 
-&gt; Facebook Acquires Instagram
+> Facebook Acquires Instagram
 
 By `March 2012`, the app’s user base had grown to approximately **27 million users**. In `April 2012`, Instagram was released for Android phones and was downloaded more than `one million times in less than one day`. At the time, the company was also close to receiving a new round of funding at a valuation of **$500 million**. Systrom and Facebook founder Mark Zuckerberg had become acquainted through events held at Stanford, and the two had been in communication during the beginning of Instagram's rapid rise in popularity.
 ![SystromandMarkZuckerberg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI0AwavGtoMFuwyaWmqywI_enBPm6wVUsxoA&amp;usqp=CAU)
 
-&gt; Newer Features Added to the App
+> Newer Features Added to the App
 
 Although Instagram has a variety of features, most basically, the app's interface allows individuals who have created a free account to upload media–both photos and videos. `Users can then edit the media they upload with filters and organize them with location information and hashtags` (a word or phrase preceded by a hash sign that is used primarily on social media platforms to identify posts about a specific topic). Users can make their profiles **public or private**; the difference is that with a public profile, a user's photos/videos are viewable by every other Instagram user, whereas with a private profile, users can approve who they want to be able to view their posts.
 
@@ -88,13 +88,13 @@ In **2019**, the market research company eMarketer predicted that Instagram woul
 ![how to use Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi4wQ8NkC1FtfpiECZtE0JUiLo2g6p2n0k8A&amp;usqp=CAU)
 
 
-&gt; How Did Instagram Become So Successful?
+> How Did Instagram Become So Successful?
 
 Instagram's focus on `photo sharing and commenting` led to a strong degree of user engagement and word-of-mouth marketing as users encouraged their friends and family to join. Its simple interface and popular features also made it widely liked. This combination led users, who notoriously have short attention spans, to scroll through many posts and **become addicted**, in a sense, to using the app.
 
 ![instapost](https://img.freepik.com/free-psd/instagram-post-template_1393-166.jpg?w=2000)
 
-&gt; The Bottom Line
+> The Bottom Line
 
 While user growth has continued to increase since the Meta (formerly Facebook) acquisition, Instagram has made a relatively small number of changes to the app, sticking to its simple and intuitive user experience and core focus on photo- and video-sharing capabilities. Despite the high price tag of its acquisition, the company appears to have been a **savvy investment** on the part of Meta.
 
