@@ -181,4 +181,4 @@ Overall, this code demonstrates the process of training and evaluating a decisio
 Algorithms trained by a student taking their first steps into Machine learning are vastly different from algorithms used for professional deployment. Find out what’s on the market, and why it’s on the market, i.e. take a real world project and document the use of Machine Learning algorithms and mathematical constructs used in it.This task can be done as a case study.
 
 
-&gt; https://hub.uvcemarvel.in/article/226eacb0-a4e6-4f12-9408-8f9c6f9da50c
+&gt; https://hub.uvcemarvel.in/article/b7d98f69-1787-4ec9-a84b-98cdaf9563dc
