@@ -4,7 +4,7 @@ Understanding Basic Terminology
 Understand ID3
 Implement ID3 for ID3
 ```
-&gt; Here is my Task [ID3](https://colab.research.google.com/drive/1ktHzOXXt0UhUnQiYGx2JIyT4Yltqce8p)
+> Here is my Task [ID3](https://colab.research.google.com/drive/1ktHzOXXt0UhUnQiYGx2JIyT4Yltqce8p)
 
 ---
 ## Task 2 - Naive Bayesian Classifier
@@ -12,7 +12,7 @@ Implement ID3 for ID3
 Understand Naive Bayesian Classifier, watch it in action using sklearn
 Implement Naive Bayesian Classifier for text classification and other applicable datasets
 ```
-&gt;Here is my Task [Naive Bayesian Classifier](https://colab.research.google.com/drive/1SV0jADE2StTdVPyKrhBDNtWNPZSX71Gg)
+> Here is my Task [Naive Bayesian Classifier](https://colab.research.google.com/drive/1SV0jADE2StTdVPyKrhBDNtWNPZSX71Gg)
 
 ---
 ## Task 3 - Ensemble techniques
@@ -20,7 +20,7 @@ Implement Naive Bayesian Classifier for text classification and other applicable
 What are ensemble techniques??
 Apply the ensemble techniques on the Titanic Dataset
 ```
-&gt;Here is my Task [Ensemble techniques](https://colab.research.google.com/drive/1TRyNLafVy0G7aVgP2J62uBZMk14Tmzq_)
+> Here is my Task [Ensemble techniques](https://colab.research.google.com/drive/1TRyNLafVy0G7aVgP2J62uBZMk14Tmzq_)
 
 ---
 ## Task 4 - Random Forest, GBM and Xgboost
@@ -29,7 +29,7 @@ Random forest: Understand &amp; Implement
 GBM: Understand &amp; Implement
 Xboost: Understand &amp; Implement
 ```
-&gt; Here is my Task [Random Forest, GBM and Xgboost](https://colab.research.google.com/drive/1KIUj6zMK-976B7FucVdeW0pzGSH4Q3X6?usp=sharing)
+> Here is my Task [Random Forest, GBM and Xgboost](https://colab.research.google.com/drive/1KIUj6zMK-976B7FucVdeW0pzGSH4Q3X6?usp=sharing)
 
 ---
 ## Task 5 - Hyperparameter Tuning
@@ -38,7 +38,7 @@ Understanding
 Pick a suitable problem (and dataset) and train a model to fit the problem
 Tune the hyperparameters of the model to increase accuracy
 ```
-&gt; Here is my task [Hyperparameter Tuning](https://colab.research.google.com/drive/1GvlaPz4GfBnrPBLjmhYB-vnjqDl_eev5?usp=sharing)
+> Here is my task [Hyperparameter Tuning](https://colab.research.google.com/drive/1GvlaPz4GfBnrPBLjmhYB-vnjqDl_eev5?usp=sharing)
 
 ---
 ## Task 6 : Image Classification using KMeans Clustering
@@ -46,6 +46,6 @@ Tune the hyperparameters of the model to increase accuracy
 Understanding K Means Clustering:
 Classify a given set of images into a given number of categories using KMeans Clustering using MNIST dataset
 ```
-&gt; Here is my task [Image Classification using KMeans Clustering](https://colab.research.google.com/drive/1FvdLZRL2MbAuS6LUmMEXk6LHSjtt8Rc9?usp=sharing)
+> Here is my task [Image Classification using KMeans Clustering](https://colab.research.google.com/drive/1FvdLZRL2MbAuS6LUmMEXk6LHSjtt8Rc9?usp=sharing)
 
 ---
