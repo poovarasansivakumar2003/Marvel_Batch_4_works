@@ -56,3 +56,41 @@ Anomaly detection is a way to detect erroneous data points in a stream, by looki
 > Here is my task [Anomaly Detection](https://colab.research.google.com/drive/1i9qmzsBs75vD9DAmgdInRrJGwETValSe?usp=sharing)
 
 ---
+## Task 8: Generative AI Task Using GAN
+```
+Develop a generative adversarial network (GAN) model to generate realistic images of a specific category, such as faces, animals, or landscapes. Customize the GAN architecture and train it on a dataset relevant to the chosen category to produce high-quality and diverse synthetic images.
+1. Outcome: Implementation and training of GAN model tailored to a specific image category.
+2. Generating diverse and realistic synthetic images using the trained GAN.
+3. Demonstrating understanding of GAN architecture and its applications in generative tasks
+```
+> Here is my task [Generative AI Task Using GAN](https://colab.research.google.com/drive/1A3G5YjmKXaCp3ZFIZjTIKMV0Xl74o1J0)
+
+---
+## Task 9: PDF Query Using LangChain
+```
+Utilize LangChain, a natural language processing framework, to extract relevant information from PDF documents based on user queries. Develop a system that can interpret user queries, process PDF documents, and retrieve relevant sections or excerpts using language understanding techniques.
+
+Task Outcomes:
+
+1. Development of a PDF query system using LangChain.
+2. Implementation of PDF parsing and text extraction functionality.
+3. Integration of natural language processing techniques for query interpretation.
+4. Testing and validation of the system with various PDF documents and queries.
+5. Documentation of system architecture, functionality, and usage guidelines.
+```
+> Here is my task [PDF Query Using LangChain]()
+
+---
+## Task 10: Table Analysis Using PaddleOCR
+```
+Employ PaddleOCR, an Optical Character Recognition (OCR) toolkit, to extract and analyze tabular data from images or scanned documents. Develop a pipeline that can accurately detect tables, extract data, and perform analysis such as statistical computations or data visualization.
+
+Task Outcomes:
+
+1. Implementation of a table detection and extraction pipeline using PaddleOCR.
+2. Development of algorithms for tabular data analysis, including statistical computations.
+3. Integration of data visualization techniques to represent extracted data.
+4. Evaluation of pipeline accuracy and performance on various image datasets.
+5. Documentation of the process, including code, methodologies, and results.
+```
+> Here is my task [Table Analysis Using PaddleOCR]()
