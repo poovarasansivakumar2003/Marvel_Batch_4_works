@@ -53,7 +53,6 @@ Classify a given set of images into a given number of categories using KMeans Cl
 ```
 Anomaly detection is a way to detect erroneous data points in a stream, by looking at statistical differences. Anomaly detection can be done through unsupervised or supervised learning methods.
 ```
-> Here is my task [Anomaly Detection]
-(https://colab.research.google.com/drive/1i9qmzsBs75vD9DAmgdInRrJGwETValSe?usp=sharing)
+> Here is my task [Anomaly Detection](https://colab.research.google.com/drive/1i9qmzsBs75vD9DAmgdInRrJGwETValSe?usp=sharing)
 
 ---
