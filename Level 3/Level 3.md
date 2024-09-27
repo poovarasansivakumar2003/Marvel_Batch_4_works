@@ -49,3 +49,11 @@ Classify a given set of images into a given number of categories using KMeans Cl
 > Here is my task [Image Classification using KMeans Clustering](https://colab.research.google.com/drive/1FvdLZRL2MbAuS6LUmMEXk6LHSjtt8Rc9?usp=sharing)
 
 ---
+## Task 7: Anomaly Detection
+```
+Anomaly detection is a way to detect erroneous data points in a stream, by looking at statistical differences. Anomaly detection can be done through unsupervised or supervised learning methods.
+```
+> Here is my task [Anomaly Detection]
+(https://colab.research.google.com/drive/1i9qmzsBs75vD9DAmgdInRrJGwETValSe?usp=sharing)
+
+---
